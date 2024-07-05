@@ -34,8 +34,14 @@ header nav a {
     position: relative;
 }
 
-h1 {
+h1, 
+h2 {
     font-weight: 600;
     font-size: 32px;
+    margin-bottom: 32px;
+}
+
+.paragrafo {
+    line-height: 150%;
     margin-bottom: 32px;
 }
